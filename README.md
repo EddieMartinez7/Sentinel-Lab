@@ -11,7 +11,7 @@ Languages Used
 
 PowerShell: Extract RDP failed logon logs from Windows Event Viewer
 
-Utilities USed
+Utilities Used
 
 ipgeolocation.io: IP Address to Geolocation API
 
