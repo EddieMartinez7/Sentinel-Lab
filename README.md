@@ -18,12 +18,22 @@ PowerShell: Extract RDP failed logon logs from Windows Event Viewer
 
 
 
+
 Utilities Used
 
 ipgeolocation.io: IP Address to Geolocation API
 
+
+
+
+
+
+
 Attachs from South Korea and Germany coming in; Custom logs being output with geodata
 <img width="707" alt="Virtual Machine PS ISE" src="https://github.com/7nani-x/Sentinel-Lab/assets/157913408/97982173-a935-4f0d-af9b-ea512374a8e0">
+
+
+
 
 
 World map of incoming attacks after 24 hours (built custom logs including geodata)
